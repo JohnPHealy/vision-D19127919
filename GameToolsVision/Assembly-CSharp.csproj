@@ -688,6 +688,12 @@
  <Reference Include="Unity.2D.IK.Runtime">
  <HintPath>C:/Users/adamk/OneDrive/Documents/GitHub/vision-D19127919/GameToolsVision/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
  </Reference>
+ <Reference Include="Cinemachine">
+ <HintPath>C:/Users/adamk/OneDrive/Documents/GitHub/vision-D19127919/GameToolsVision/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.cinemachine.editor">
+ <HintPath>C:/Users/adamk/OneDrive/Documents/GitHub/vision-D19127919/GameToolsVision/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
  <HintPath>C:/Users/adamk/OneDrive/Documents/GitHub/vision-D19127919/GameToolsVision/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
@@ -714,12 +720,6 @@
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
  <HintPath>C:/Users/adamk/OneDrive/Documents/GitHub/vision-D19127919/GameToolsVision/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="com.unity.cinemachine.editor">
- <HintPath>C:/Users/adamk/OneDrive/Documents/GitHub/vision-D19127919/GameToolsVision/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
- </Reference>
- <Reference Include="Cinemachine">
- <HintPath>C:/Users/adamk/OneDrive/Documents/GitHub/vision-D19127919/GameToolsVision/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
