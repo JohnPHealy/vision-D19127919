@@ -13599,6 +13599,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9031392008309823635, guid: bf0d57a178dcb344dbc51b383e11dc06, type: 3}
+      propertyPath: manager
+      value: 
+      objectReference: {fileID: 2133908956}
     - target: {fileID: 9031392008309823637, guid: bf0d57a178dcb344dbc51b383e11dc06, type: 3}
       propertyPath: m_Name
       value: Totem
